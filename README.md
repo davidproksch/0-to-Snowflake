@@ -5,8 +5,8 @@ These workshop materials facilitate the learning of Snowflake in less than 90 mi
 * User Interface - How do I navigate the UI
 * [Create a Database](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateDatabase.sql) - This is where the data lives
   * Schemas
-  * Tables
-  * Stages
+  * [Tables](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateTable.sql)
+  * [Stages](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateAWSStage.sql) - Stage for an AWS S3 bucket
   * File Formats
 * Create a Compute Cluster - A.K.A. Virtual Warehouses.  This is where the query and loading magic happens
 * Load Data - Use the COPY command to populate a table
