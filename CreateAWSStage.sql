@@ -1,0 +1,16 @@
+--
+-- Zero To Snowflake in 90 Minuites
+-- 
+-- Create Stage for AWS Sample DDL 
+--
+-- The stage name is z2sfz_stage.  Optionally, the stage could be fully
+-- qualifed with database.schema.  In this case, we are choosing the default
+-- database and schema from the user's context.
+--
+-- The URL is the fully qualified URL to the S3 bucket
+-- Use the AWS KEY and SECRET KEY for the account that has access to
+-- the S3 bucket.
+--
+-- The comment is optional, but helps with good system documentation.
+--
+CREATE STAGE z2sf_stage URL = 's3://<URL>' CREDENTIALS = (AWS_KEY_ID = 'AWS_KEY' AWS_SECRET_KEY = 'AWS_SECRET') COMMENT = 'Zero to Snowflake AWS S3 Stage';
