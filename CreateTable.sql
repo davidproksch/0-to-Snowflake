@@ -1,0 +1,8 @@
+--
+-- Zero To Snowflake in 90 Minuites
+-- 
+-- Create Table Sample DDL 
+--
+-- It is important to note what IS MISSING:  Indexes, Partitioning Key, 
+-- HASH/DISTRIBUTION KEYS!
+--
