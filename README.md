@@ -9,7 +9,7 @@ These workshop materials facilitate the learning of Snowflake in less than 90 mi
   * [Stages](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateAWSStage.sql) - Stage for an AWS S3 bucket
   * [File Formats](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateFileFormat.sql) - A named file format that can be used for bulk loading data into (and unloading data out of) Snowflake tables
 * [Create a Compute Cluster](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateVirtualWarehouse.sql) - A.K.A. Virtual Warehouses.  This is where the query and loading magic happens
-* Load Data - Use the COPY command to populate a table
+* [Load Data](https://github.com/davidproksch/0-to-Snowflake/blob/master/LoadDataViaCopy.sql) - Use the COPY command to populate a table
 * Handle JSON Data - An introduction to handling semi-structured data
   * Loading via COPY
   * Query via SQL
