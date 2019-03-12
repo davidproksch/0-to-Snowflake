@@ -3,7 +3,7 @@
 These workshop materials facilitate the learning of Snowflake in less than 90 minutes.  When the workshop completes, you will be an expert in:
 
 * User Interface - How do I navigate the UI
-* (Create a Database)[https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateDatabase.sql] - This is where the data lives
+* [Create a Database](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateDatabase.sql) - This is where the data lives
   * Schemas
   * Tables
   * Stages
