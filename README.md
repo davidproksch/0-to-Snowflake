@@ -19,7 +19,7 @@ For the Zero To Snowflake - Detroit Edition, use the following AWS information:
 * Handle JSON Data - An introduction to handling semi-structured data
   * [Loading](https://github.com/davidproksch/0-to-Snowflake/blob/master/LoadJsonData.sql) via COPY
   * [Query](https://github.com/davidproksch/0-to-Snowflake/blob/master/QueryJsonDataView.sql) via SQL
-* [BAR] - Backup and Recovery as you've always wanted it:  Fast, Easy and at no-charge
+* [BAR](https://github.com/davidproksch/0-to-Snowflake/blob/master/BAR.sql) - Backup and Recovery as you've always wanted it:  Fast, Easy and at no-charge
 * Data Sharing - Your Kindergarten teacher was right - it is good to share.
 
 
