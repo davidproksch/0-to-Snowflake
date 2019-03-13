@@ -3,9 +3,6 @@
 These workshop materials facilitate the learning of Snowflake in less than 90 minutes.  When the workshop completes, you will be an expert in:
 
 For the Zero To Snowflake - Detroit Edition, use the following AWS information:
-* **AWSAccessKeyId**: AKIAIXVETSISMFIO7IEQ
-* **AWSSecretKey**: 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
-* **URL**: s3://bmgsf/
 
 **Note**:  This access will be removed by the end of 13 March 2019.
 
