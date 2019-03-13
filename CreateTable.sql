@@ -1,7 +1,7 @@
 --
 -- Zero To Snowflake in 90 Minuites
 -- 
--- Create Table Sample DDL 
+-- Create Table Sample DDL.  The table name is "crimes".
 --
 -- It is important to note what IS MISSING:  Indexes, Partitioning Key, 
 -- HASH/DISTRIBUTION KEYS!

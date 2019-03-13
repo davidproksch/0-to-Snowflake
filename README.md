@@ -2,10 +2,11 @@
 
 These workshop materials facilitate the learning of Snowflake in less than 90 minutes.  When the workshop completes, you will be an expert in:
 
-For the Z2SF-Detroit Edition, use the following AWS information:
+For the Zero To Snowflake - Detroit Edition, use the following AWS information:
 * **AWSAccessKeyId**: AKIAIXVETSISMFIO7IEQ
 * **AWSSecretKey**: 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
 * **URL**: s3://bmgsf/
+**Note**:  This access will be removed by the end of 13 March 2019.
 
 * User Interface - How do I navigate the UI
 * [Create a Database](https://github.com/davidproksch/0-to-Snowflake/blob/master/CreateDatabase.sql) - This is where the data lives
@@ -18,7 +19,7 @@ For the Z2SF-Detroit Edition, use the following AWS information:
 * Handle JSON Data - An introduction to handling semi-structured data
   * [Loading](https://github.com/davidproksch/0-to-Snowflake/blob/master/LoadJsonData.sql) via COPY
   * [Query](https://github.com/davidproksch/0-to-Snowflake/blob/master/QueryJsonDataView.sql) via SQL
-* BAR - Backup and Recovery as you've always wanted it:  Fast, Easy and at no-charge
+* [BAR] - Backup and Recovery as you've always wanted it:  Fast, Easy and at no-charge
 * Data Sharing - Your Kindergarten teacher was right - it is good to share.
 
 

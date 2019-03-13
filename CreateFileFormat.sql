@@ -14,7 +14,7 @@
 -- as values denoting NULL values.  The NULL_IF clause would be:
 -- NULL_IF ('?','NN,'NA').  <- Pretty powerful stuff
 --
-CREATE FILE FORMAT z2sf_ff 
+CREATE FILE FORMAT CSV 
 	TYPE = 'CSV' 
 	COMPRESSION = 'GZIP' 
 	FIELD_DELIMITER = ',' 

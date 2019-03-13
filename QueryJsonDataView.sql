@@ -29,3 +29,9 @@ from json_table a,
 lateral flatten(input => a.json_data:cust_values) list
 );
 
+--
+-- Let's do some simple queries
+--
+select distinct state from vw_json limit 22;
+select state, count(*) from vw_json group by 1 order by 2 desc;
+

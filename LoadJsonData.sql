@@ -12,7 +12,7 @@
 --
 -- Let's take a look at what is in the stage
 --
-ls @json_challenge;
+ls @crimes_stage/json/;
 
 --
 -- Only need a one column table, of type variant.  
@@ -25,7 +25,7 @@ create or replace table json_table (json_data variant);
 -- looks and acts just like regular tabular data.
 --
 copy into json_table 
-from @json_challenge/ 
+from @crimes_stage/json/
 file_format = 'json';
 
 --
