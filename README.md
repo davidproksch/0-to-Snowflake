@@ -6,6 +6,7 @@ For the Zero To Snowflake - Detroit Edition, use the following AWS information:
 * **AWSAccessKeyId**: AKIAIXVETSISMFIO7IEQ
 * **AWSSecretKey**: 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
 * **URL**: s3://bmgsf/
+
 **Note**:  This access will be removed by the end of 13 March 2019.
 
 * User Interface - How do I navigate the UI
