@@ -34,9 +34,9 @@ create or replace table crimes (
 --
 -- Information Needed to Create CRIMES_STAGE
 --
--- AWSAccessKeyId: AKIAIXVETSISMFIO7IEQ
+-- AWSAccessKeyId: 
 --
--- AWSSecretKey: KnvkUDJD9Zp4wGqUURSiW9VCe06LcCDAKDBruGHW
+-- AWSSecretKey: 
 --
 -- URL: s3://bmgsf/
 --
